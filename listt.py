@@ -6,3 +6,4 @@ thisdict = {
 del thisdict
 
 print(thisdict)
+print("small time")
